@@ -1,3 +1,4 @@
 Anggi Resolusi
 - Konsisten dalam belajar terkait data engineer
 - Membuat program dan database sederhana
+- Menyelesaikan semua projrct dengan baik
